@@ -1,0 +1,6 @@
+#!/bin/bash
+
+pathFileOld='/path/to/to/file/1/';
+pathFileNew='/path/to/file/2/';
+
+/usr/share/code/bin/code $pathFileOld$1 $pathFileNew$1 --diff --wait;
