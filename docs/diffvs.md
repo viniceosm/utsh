@@ -5,6 +5,8 @@ When you repeatedly compare files that are in different folders, for example:
 
 `/home/vinicius/repo1/index.js` with `/home/vinicius/repo2/index.js`
 
+![diff](Screenshot_1.png)
+
 ## Run in Linux
 Use [run](https://github.com/viniceosm/utsh/blob/master/diffvs/run), change the paths in file
 
